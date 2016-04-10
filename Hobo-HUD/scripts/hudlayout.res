@@ -8,7 +8,7 @@
 	// values if not perfectly centered.
 	//--------------------------------------------------------------
 
-	KnucklesCrosses
+		KnucklesCrosses
 	{
 		"visible" 		"0"
 		"enabled" 		"0"
@@ -23,7 +23,7 @@
 		"wide" 		 	"50"
 		"tall" 		 	"50"
 		
-		"font"			"size:30,outline:off"	// size: range 10-50
+		"font"			"size:20,outline:off"	// size: range 10-50
 												// outline: on or off
 		
 		"textAlignment"	"center"
@@ -475,22 +475,22 @@
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "6"
+		"MaxDeathNotices" "12"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "12"
 		"LineSpacing"	  "0"
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"NormalCode10"
+		"TextFont"		"NormalCode12"
 		
-		"TeamBlue"		"ahudBlue"
-		"TeamRed"		"ahudRed"
-		"IconColor"		"White"
+		"TeamBlue"		"0 200 255 255"
+		"TeamRed"		"255 0 0 255"
+		"IconColor"		"255 255 0 255"
 		"LocalPlayerColor"	"Black"
 
 		"BaseBackgroundColor"	"HudBlack"
-		"LocalBackgroundColor"	"ahudWhite"
+		"LocalBackgroundColor"	"255 255 255 255"
 	}
 
 	HudVehicle

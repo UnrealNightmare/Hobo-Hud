@@ -86,10 +86,10 @@
 		"Default"			"0"
 		"font"				"NormalCode12"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -122,10 +122,10 @@
 		"Default"			"0"
 		"font"				"NormalCode12"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -158,10 +158,10 @@
 		"Default"			"0"
 		"font"				"NormalCode12"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -214,10 +214,10 @@
 		"Default"			"0"
 		"font"				"NormalCode12"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -250,10 +250,10 @@
 		"Default"			"0"
 		"font"				"NormalCode12"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -286,9 +286,9 @@
 		"Default"			"0"
 		"font"				"NormalCode12"
 		
-		"defaultFgColor_override" 	"255 255 255 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -341,10 +341,10 @@
 		"Default"			"0"
 		"font"				"NormalCode12"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -377,10 +377,10 @@
 		"Default"			"0"
 		"font"				"NormalCode12"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -414,10 +414,10 @@
 		"font"				"NormalCode12"
 		"scaleImage"		"1"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -451,10 +451,10 @@
 		"Default"			"1"
 		"font"				"NormalCode12"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -488,10 +488,10 @@
 		"font"			"NormalCode12"
 		"paintbackground"	"0"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -519,10 +519,10 @@
 		"font"			"NormalCode12"
 		"paintbackground"	"0"
 		
-		"FgColor"					"255 255 255 128"
-		"defaultFgColor_override" 	"255 255 255 128"
+		"FgColor"					"0 255 25 128"
+		"defaultFgColor_override" 	"0 255 25 128"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "255 255 255 128"
+		"depressedFgColor_override" "0 255 25 128"
 		"selectedFgColor_override" 	"ahudWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
